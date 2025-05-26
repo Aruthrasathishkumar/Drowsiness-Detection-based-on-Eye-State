@@ -2,7 +2,6 @@
 
 This project implements a computer vision-based system to detect drowsiness by analyzing a person’s eye state using facial landmarks. It uses OpenCV, Dlib, and Haar cascades to determine if a person’s eyes are closed for prolonged periods, indicating potential drowsiness.
 
----
 
 ## 📌 Features
 
@@ -11,7 +10,6 @@ This project implements a computer vision-based system to detect drowsiness by a
 - Alert system with sound if drowsiness is detected
 - Lightweight and efficient Python implementation
 
----
 
 ## 🛠 Technologies
 
@@ -20,7 +18,6 @@ This project implements a computer vision-based system to detect drowsiness by a
 - Dlib
 - Haar Cascade Classifiers
 
----
 
 ## 🚀 How to Run
 
